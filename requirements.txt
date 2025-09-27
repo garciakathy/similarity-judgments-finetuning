@@ -1,0 +1,49 @@
+# Core ML/AI stack
+torch>=2.0.0
+torchvision
+torchaudio
+transformers>=4.31.0
+peft
+timm
+
+# Video processing
+decord
+pytorchvideo
+
+# Scientific computing
+numpy
+pandas
+scipy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+tqdm
+pillow
+python-dotenv
+python-dateutil
+
+# Text processing
+sentence-transformers
+spacy
+sacremoses
+ftfy
+regex
+
+# Optional/Development dependencies
+IPython
+rich
+
+# DeepJuice dependencies (install separately)
+# deepjuice  # Install from custom source
+# mtalg      # Custom package
+
+# HuggingFace/tokenizers
+open_clip_torch
+torchmetrics
+torchinfo
+
+
