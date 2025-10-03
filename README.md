@@ -1,6 +1,6 @@
 # Aligning Video Models with Human Social Judgments via Behavior-Guided Fine-Tuning
 
-This repository contains the code and data for fine-tuning video models to align with human social judgments through behavior-guided training approaches.
+This repository contains the code and data for the implementation of [Aligning Video Models with Human Social Judgments via Behavior-Guided Fine-Tuning](https://arxiv.org/abs/2510.01502) 
 
 ## Overview
 
